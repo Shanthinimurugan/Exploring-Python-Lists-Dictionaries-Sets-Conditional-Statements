@@ -51,8 +51,8 @@ Example:
 
 age_list = [24, 25, 27, 28, 29]
 
-age_list.insert(2, 26)
-age_list.extend([31, 30, 32])
+age_list.insert(2, 26)  
+age_list.extend([31, 30, 32])  
 age_list.sort(reverse=True)
 
 ### 2. Dictionaries
