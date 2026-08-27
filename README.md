@@ -1,4 +1,4 @@
-# Exploring-Python-Lists-Dictionaries-Sets-Conditional-Statements
+# Exploring-Python-Lists-Dictionaries-Sets-& Conditional-Statements
 
 ## 📌 Project Overview
 
