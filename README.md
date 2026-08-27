@@ -81,7 +81,7 @@ student_marks = {
     "Raj": 65
 }
 
-student_marks["Janani"] = 80
+student_marks["Janani"] = 80  
 student_marks["Kala"] = 82
 
 ### 3. Sets
@@ -101,20 +101,20 @@ I also practiced:
 
 Example:
 
-set1 = {1, 3, 5, 7, 9}
+set1 = {1, 3, 5, 7, 9}  
 set2 = {2, 3, 5, 8, 10}
 
-set1.union(set2)
+set1.union(set2)  
 set1.intersection(set2)
 
 ### 4. Operators & Conditional Statements
 
 Created a Performance Category Program that accepts a score from 0 to 10 and categorizes the performance.
 
-Score	Category, 
-Greater than 7	Above Average, 
-4 to 7	Average, 
-Less than 4	Below Average
+Score	Category:  
+Greater than 7 - Above Average   
+4 to 7 - Average  
+Less than 4	- Below Average
 
 The program uses:
 
