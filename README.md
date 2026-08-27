@@ -162,15 +162,15 @@ Learning → Practicing → Improving → Growing 🚀
 ## 📚 Future Learning
 
 I plan to continue learning:
-Loops
-Functions
-List Comprehensions
-Exception Handling
-File Handling
-NumPy
-Pandas
-Matplotlib
-Data Analysis with Python
+- Loops
+- Functions
+- List Comprehensions
+- Exception Handling
+- File Handling
+- NumPy
+- Pandas
+- Matplotlib
+- Data Analysis with Python
 
 ## 👩‍💻 Author
 
