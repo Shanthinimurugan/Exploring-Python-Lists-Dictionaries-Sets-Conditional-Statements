@@ -154,7 +154,6 @@ else:
 
 Python  
 Jupyter Notebook / Google Colab  
-GitHub
 
 ## 📝 Conclusion
 
