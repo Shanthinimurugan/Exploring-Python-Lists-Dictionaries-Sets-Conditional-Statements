@@ -12,9 +12,9 @@ The objective of this project is to practice and understand the fundamental conc
 
 ## 📌 Problem Statements
 
-• Creating and working with Python Lists.
-• Modifying lists using built-in methods.
-• Accessing list elements using indexing and slicing.
+- Creating and working with Python Lists.  
+- Modifying lists using built-in methods.
+- Accessing list elements using indexing and slicing.
 • Creating and manipulating Dictionaries.
 • Working with Sets and understanding unique elements.
 • Performing Union and Intersection operations.
