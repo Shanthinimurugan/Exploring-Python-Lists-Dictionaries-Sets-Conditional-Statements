@@ -128,14 +128,14 @@ The program uses:
 
 Example:
 
-if Score >= 0 and Score <= 10:
-    if Score > 7:
-        print("Above Average")
-    elif Score >= 4:
-        print("Average")
-    else:
-        print("Below Average")
-else:
+if Score >= 0 and Score <= 10:  
+    if Score > 7:  
+        print("Above Average")  
+    elif Score >= 4:  
+        print("Average")  
+    else:  
+        print("Below Average")  
+else:  
     print("Your Score range should be between 0 to 10")
     
 ## 💡 Key Learnings
