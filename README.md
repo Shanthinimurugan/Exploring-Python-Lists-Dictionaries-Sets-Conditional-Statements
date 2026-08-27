@@ -31,21 +31,21 @@ Created and worked with age_list and name_list.
 
 List operations practiced:
 
-append()
-insert()
-remove()
-pop()
-extend()
-sort()
-min()
-max()
-sum()
+* append(),
+* insert(),
+* remove(),
+* pop(),
+* extend(),
+* sort(),
+* min(),
+* max(),
+* sum()
 
 Also practiced:
 
-Positive and negative indexing
-List slicing
-Reversing a list
+- Positive and negative indexing
+- List slicing
+- Reversing a list
 
 Example:
 
@@ -61,13 +61,13 @@ Created a student_marks dictionary to store student names and their marks.
 
 Practiced:
 
-Creating dictionaries
-Accessing values using keys
-Adding new key-value pairs
-Updating existing values
+- Creating dictionaries
+- Accessing values using keys
+- Adding new key-value pairs
+- Updating existing values
 Using:
-keys()
-values()
+keys(), 
+values(), 
 items()
 
 Example:
@@ -93,10 +93,10 @@ A set stores only unique elements, so duplicate values such as 'a' and 'i' are a
 
 I also practiced:
 
-Creating sets
-Understanding that sets do not support indexing
-Union
-Intersection
+- Creating sets
+- Understanding that sets do not support indexing
+- Union
+- Intersection
 
 Example:
 
@@ -110,20 +110,20 @@ set1.intersection(set2)
 
 Created a Performance Category Program that accepts a score from 0 to 10 and categorizes the performance.
 
-Score	Category
-Greater than 7	Above Average
-4 to 7	Average
+Score	Category, 
+Greater than 7	Above Average, 
+4 to 7	Average, 
 Less than 4	Below Average
 
 The program uses:
 
-input()
-int()
-Comparison operators
-Logical operators
-if
-elif
-else
+- input()
+- int()
+- Comparison operators
+- Logical operators
+- if
+- elif
+- else
 
 Example:
 
@@ -139,13 +139,13 @@ else:
     
 ## 💡 Key Learnings
 
-Lists are ordered and mutable, allowing elements to be added, removed, and modified.
-Dictionaries store data as key-value pairs.
-Sets contain unique elements and do not support indexing.
-List slicing makes it easy to access a range of elements.
-if, elif, and else help make decisions based on conditions.
-Built-in functions such as min(), max(), and sum() simplify common operations.
-Regular coding practice helps improve logical thinking and problem-solving skills.
+- Lists are ordered and mutable, allowing elements to be added, removed, and modified.
+- Dictionaries store data as key-value pairs.
+- Sets contain unique elements and do not support indexing.
+- List slicing makes it easy to access a range of elements.
+- if, elif, and else help make decisions based on conditions.
+- Built-in functions such as min(), max(), and sum() simplify common operations.
+- Regular coding practice helps improve logical thinking and problem-solving skills.
 
 ## 🛠️ Tools & Technologies
 
