@@ -128,6 +128,7 @@ The program uses:
 
 Example:
 
+```
 if Score >= 0 and Score <= 10:  
     if Score > 7:  
         print("Above Average")  
@@ -137,7 +138,8 @@ if Score >= 0 and Score <= 10:
         print("Below Average")  
 else:  
     print("Your Score range should be between 0 to 10")
-    
+```
+  
 ## 💡 Key Learnings
 
 - Lists are ordered and mutable, allowing elements to be added, removed, and modified.
