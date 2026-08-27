@@ -10,7 +10,7 @@ The exercises helped me understand how Python data structures work, how to modif
 
 The objective of this project is to practice and understand the fundamental concepts of Python by working with Lists, Dictionaries, Sets, Operators, and Conditional Statements. The exercises focus on creating, accessing, modifying, and performing operations on different data structures, as well as applying conditional logic to solve basic programming tasks.
 
-## 🎯 Problem Statements
+## 📌 Problem Statements
 
 Creating and working with Python Lists
 Modifying lists using built-in methods
@@ -25,7 +25,7 @@ Using built-in functions such as min(), max(), and sum()
 
 ## 🐍 Topics Covered
 
-1. Lists
+### 1. Lists
 
 Created and worked with age_list and name_list.
 
@@ -55,7 +55,7 @@ age_list.insert(2, 26)
 age_list.extend([31, 30, 32])
 age_list.sort(reverse=True)
 
-2. Dictionaries
+### 2. Dictionaries
 
 Created a student_marks dictionary to store student names and their marks.
 
@@ -83,7 +83,7 @@ student_marks = {
 student_marks["Janani"] = 80
 student_marks["Kala"] = 82
 
-3. Sets
+### 3. Sets
 
 Created a set and explored how sets handle duplicate values.
 
@@ -106,7 +106,7 @@ set2 = {2, 3, 5, 8, 10}
 set1.union(set2)
 set1.intersection(set2)
 
-4. Operators & Conditional Statements
+### 4. Operators & Conditional Statements
 
 Created a Performance Category Program that accepts a score from 0 to 10 and categorizes the performance.
 
