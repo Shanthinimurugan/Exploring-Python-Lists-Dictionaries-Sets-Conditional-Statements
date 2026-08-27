@@ -15,13 +15,13 @@ The objective of this project is to practice and understand the fundamental conc
 - Creating and working with Python Lists.  
 - Modifying lists using built-in methods.
 - Accessing list elements using indexing and slicing.
-• Creating and manipulating Dictionaries.
-• Working with Sets and understanding unique elements.
-• Performing Union and Intersection operations.
-• Using Operators and Conditional Statements.
-• Applying if, elif, and else.
-• Taking user input using input().
-• Using built-in functions such as min(), max(), and sum().
+- Creating and manipulating Dictionaries.
+- Working with Sets and understanding unique elements.
+- Performing Union and Intersection operations.
+- Using Operators and Conditional Statements.
+- Applying if, elif, and else.
+- Taking user input using input().
+- Using built-in functions such as min(), max(), and sum().
 
 ## 🐍 Topics Covered
 
