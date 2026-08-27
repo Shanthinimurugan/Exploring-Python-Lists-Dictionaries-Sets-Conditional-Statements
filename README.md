@@ -31,14 +31,14 @@ Created and worked with age_list and name_list.
 
 List operations practiced:
 
-* append(),
-* insert(),
-* remove(),
-* pop(),
-* extend(),
-* sort(),
-* min(),
-* max(),
+* append()
+* insert()
+* remove()
+* pop()
+* extend()
+* sort()
+* min()
+* max()
 * sum()
 
 Also practiced:
