@@ -1,2 +1,171 @@
 # Exploring-Python-Lists-Dictionaries-Sets-Conditional-Statements
-This repository showcases my hands-on practice with Python Lists, Dictionaries, Sets, and Conditional Statements, including creating, accessing, modifying, and performing different operations on data structures, along with applying conditions to solve basic programming problems.
+
+📌 Project Overview
+
+This repository contains my Python fundamentals practice exercises, covering important beginner-level concepts such as Lists, Dictionaries, Sets, Operators, and Conditional Statements.
+
+The exercises helped me understand how Python data structures work, how to modify and access elements, and how to apply conditions to solve simple programming problems.
+
+🎯 Problem Statements
+
+Creating and working with Python Lists
+Modifying lists using built-in methods
+Accessing list elements using indexing and slicing
+Creating and manipulating Dictionaries
+Working with Sets and understanding unique elements
+Performing Union and Intersection operations
+Using Operators and Conditional Statements
+Applying if, elif, and else
+Taking user input using input()
+Using built-in functions such as min(), max(), and sum()
+
+🐍 Topics Covered
+1. Lists
+
+Created and worked with age_list and name_list.
+
+List operations practiced:
+
+append()
+insert()
+remove()
+pop()
+extend()
+sort()
+min()
+max()
+sum()
+
+Also practiced:
+
+Positive and negative indexing
+List slicing
+Reversing a list
+
+Example:
+
+age_list = [24, 25, 27, 28, 29]
+
+age_list.insert(2, 26)
+age_list.extend([31, 30, 32])
+age_list.sort(reverse=True)
+
+2. Dictionaries
+
+Created a student_marks dictionary to store student names and their marks.
+
+Practiced:
+
+Creating dictionaries
+Accessing values using keys
+Adding new key-value pairs
+Updating existing values
+Using:
+keys()
+values()
+items()
+
+Example:
+
+student_marks = {
+    "Kala": 78,
+    "Mala": 89,
+    "Sri": 98,
+    "Vino": 56,
+    "Raj": 65
+}
+
+student_marks["Janani"] = 80
+student_marks["Kala"] = 82
+
+3. Sets
+
+Created a set and explored how sets handle duplicate values.
+
+my_set = {'a', 'e', 'i', 'o', 'u', 'a', 'a', 'i'}
+
+A set stores only unique elements, so duplicate values such as 'a' and 'i' are automatically removed.
+
+I also practiced:
+
+Creating sets
+Understanding that sets do not support indexing
+Union
+Intersection
+
+Example:
+
+set1 = {1, 3, 5, 7, 9}
+set2 = {2, 3, 5, 8, 10}
+
+set1.union(set2)
+set1.intersection(set2)
+
+4. Operators & Conditional Statements
+
+Created a Performance Category Program that accepts a score from 0 to 10 and categorizes the performance.
+
+Score	Category
+Greater than 7	Above Average
+4 to 7	Average
+Less than 4	Below Average
+
+The program uses:
+
+input()
+int()
+Comparison operators
+Logical operators
+if
+elif
+else
+
+Example:
+
+if Score >= 0 and Score <= 10:
+    if Score > 7:
+        print("Above Average")
+    elif Score >= 4:
+        print("Average")
+    else:
+        print("Below Average")
+else:
+    print("Your Score range should be between 0 to 10")
+    
+💡 Key Learnings
+
+Lists are ordered and mutable, allowing elements to be added, removed, and modified.
+Dictionaries store data as key-value pairs.
+Sets contain unique elements and do not support indexing.
+List slicing makes it easy to access a range of elements.
+if, elif, and else help make decisions based on conditions.
+Built-in functions such as min(), max(), and sum() simplify common operations.
+Regular coding practice helps improve logical thinking and problem-solving skills.
+
+🛠️ Tools & Technologies
+
+Python
+Jupyter Notebook / Google Colab
+GitHub
+
+🚀 Conclusion
+
+This project is part of my Python learning journey. These exercises helped me strengthen my understanding of Python's basic data structures and conditional logic.
+
+I’m continuing to practice Python step by step and looking forward to applying these concepts to Data Analytics and real-world projects.
+
+Learning → Practicing → Improving → Growing 🚀
+
+📚 Future Learning
+
+I plan to continue learning:
+
+Loops
+Functions
+List Comprehensions
+Exception Handling
+File Handling
+NumPy
+Pandas
+Matplotlib
+Data Analysis with Python
