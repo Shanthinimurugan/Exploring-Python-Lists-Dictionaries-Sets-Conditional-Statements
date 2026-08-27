@@ -64,10 +64,11 @@ Practiced:
 - Creating dictionaries
 - Accessing values using keys
 - Adding new key-value pairs
-- Updating existing values
+- Updating existing values  
+
 Using:
-keys(), 
-values(), 
+keys(),
+values(),
 items()
 
 Example:
