@@ -1,12 +1,16 @@
 # Exploring-Python-Lists-Dictionaries-Sets-Conditional-Statements
 
-📌 Project Overview
+## 📌 Project Overview
 
 This repository contains my Python fundamentals practice exercises, covering important beginner-level concepts such as Lists, Dictionaries, Sets, Operators, and Conditional Statements.
 
 The exercises helped me understand how Python data structures work, how to modify and access elements, and how to apply conditions to solve simple programming problems.
 
-🎯 Problem Statements
+## 🎯 Project Objective
+
+The objective of this project is to practice and understand the fundamental concepts of Python by working with Lists, Dictionaries, Sets, Operators, and Conditional Statements. The exercises focus on creating, accessing, modifying, and performing operations on different data structures, as well as applying conditional logic to solve basic programming tasks.
+
+## 🎯 Problem Statements
 
 Creating and working with Python Lists
 Modifying lists using built-in methods
@@ -19,7 +23,8 @@ Applying if, elif, and else
 Taking user input using input()
 Using built-in functions such as min(), max(), and sum()
 
-🐍 Topics Covered
+## 🐍 Topics Covered
+
 1. Lists
 
 Created and worked with age_list and name_list.
@@ -132,7 +137,7 @@ if Score >= 0 and Score <= 10:
 else:
     print("Your Score range should be between 0 to 10")
     
-💡 Key Learnings
+## 💡 Key Learnings
 
 Lists are ordered and mutable, allowing elements to be added, removed, and modified.
 Dictionaries store data as key-value pairs.
@@ -142,24 +147,21 @@ if, elif, and else help make decisions based on conditions.
 Built-in functions such as min(), max(), and sum() simplify common operations.
 Regular coding practice helps improve logical thinking and problem-solving skills.
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Python
 Jupyter Notebook / Google Colab
 GitHub
 
-🚀 Conclusion
+## 📝 Conclusion
 
-This project is part of my Python learning journey. These exercises helped me strengthen my understanding of Python's basic data structures and conditional logic.
-
-I’m continuing to practice Python step by step and looking forward to applying these concepts to Data Analytics and real-world projects.
+Through this practice, I gained a better understanding of how Python Lists, Dictionaries, and Sets are created and manipulated using different built-in methods and operations. I also practiced indexing, slicing, set operations, user input, comparison operators, and conditional statements to implement simple problem-solving programs. This project helped me apply Python concepts through hands-on coding exercises.
 
 Learning → Practicing → Improving → Growing 🚀
 
-📚 Future Learning
+## 📚 Future Learning
 
 I plan to continue learning:
-
 Loops
 Functions
 List Comprehensions
@@ -169,3 +171,24 @@ NumPy
 Pandas
 Matplotlib
 Data Analysis with Python
+
+## 👩‍💻 Author
+
+**Shanthini**
+
+**Aspiring Data Analyst**
+
+**Skills:** Python | Data Structures | List Operations | Dictionary Operations | Set Operations | Conditional Operations 
+
+## 📄 License
+
+This project is created for educational and assignment purposes only.
+
+## 🙏 Acknowledgments
+
+I would like to thank:
+
+- **Entri Elevate Course Support** for providing guidance and learning resources throughout this project.
+- **Python Documentation** for valuable references and support in understanding Python syntax, string operations, and tuple concepts.
+- **Google Colab** for providing an interactive environment to practice and execute Python code.
+
