@@ -152,8 +152,8 @@ else:
 
 ## 🛠️ Tools & Technologies
 
-Python
-Jupyter Notebook / Google Colab
+Python  
+Jupyter Notebook / Google Colab  
 GitHub
 
 ## 📝 Conclusion
