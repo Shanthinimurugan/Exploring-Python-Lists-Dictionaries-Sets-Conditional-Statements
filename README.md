@@ -191,6 +191,6 @@ This project is created for educational and assignment purposes only.
 I would like to thank:
 
 - **Entri Elevate Course Support** for providing guidance and learning resources throughout this project.
-- **Python Documentation** for valuable references and support in understanding Python syntax, string operations, and tuple concepts.
+- **Python Documentation** for valuable references and support in understanding Python syntax, list, Dictionary, Set, and Conditional operatiions.
 - **Google Colab** for providing an interactive environment to practice and execute Python code.
 
